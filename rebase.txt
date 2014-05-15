@@ -1,2 +1,2 @@
-first edit
-line2
+first edit new
+line2 third part
