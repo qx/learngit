@@ -1,2 +1,2 @@
-first dir forth
+first dirsecond changedfirst dir forth
 third
