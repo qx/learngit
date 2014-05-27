@@ -1,2 +1,3 @@
 first edit new
 line2 third part
+ftest add
